@@ -1,7 +1,0 @@
-{
-  "name": "PTC Class Directory - Computer Technician",
-  "description": "An online class directory for the Computer Technician Department at Pattaya Technical College, featuring student profiles, social media links, and Google Sheets integration.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
